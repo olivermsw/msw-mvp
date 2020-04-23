@@ -1,0 +1,3 @@
+include ':msw-mvp'
+include ':app'
+rootProject.name = "MSWMvp"
